@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "WEBAR",
+"productVersion": "0.1",
+"dataUrl": "Web_Xr_sl.data.unityweb",
+"wasmCodeUrl": "Web_Xr_sl.wasm.code.unityweb",
+"wasmFrameworkUrl": "Web_Xr_sl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
